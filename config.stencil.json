@@ -1,0 +1,13 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {
+      "affirm--template.html":"/affirm/"
+    },
+    "product": {}
+  },
+  "apiHost": "https://api.bigcommerce.com",
+  "normalStoreUrl": "https://icon-sleep.com",
+  "port": 3000
+}
